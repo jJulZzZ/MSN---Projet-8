@@ -1,0 +1,76 @@
+{
+  "classical": 0.22863709195795015,
+  "checks": {
+    "classical_refinement": 5.551115123125783e-17,
+    "quantum_(0.3, 0.4)": 4.065568546263165e-07,
+    "quantum_(0.3, 0.6)": 3.8414007991205423e-07,
+    "quantum_(0.9, 0.4)": 2.083955848997121e-07,
+    "quantum_(0.9, 0.6)": 2.3149475270045627e-07,
+    "centroid_(0.3, 0.4)": 5.551115123125783e-16,
+    "centroid_(0.3, 0.6)": 3.885780586188048e-15,
+    "centroid_(0.9, 0.4)": 0.0,
+    "centroid_(0.9, 0.6)": 9.43689570931383e-16
+  },
+  "cases": [
+    {
+      "C": 0.3,
+      "theta": 0.4,
+      "ground_energy": 0.7389518273985887,
+      "quantum_potential": 0.49405596686579367,
+      "P15_potential": 0.4879961265804226,
+      "P15_barrier": 0.42529915648631633,
+      "P60_barrier": 0.4214683761329175,
+      "mc": {
+        "barrier": 0.458,
+        "sd": 0.05,
+        "runs": 3,
+        "source": "saved printed output (rounded)"
+      }
+    },
+    {
+      "C": 0.3,
+      "theta": 0.6,
+      "ground_energy": 0.7389518273985887,
+      "quantum_potential": 0.4974111645430564,
+      "P15_potential": 0.494576335603313,
+      "P15_barrier": 0.5773252279205896,
+      "P60_barrier": 0.5750234334914468,
+      "mc": {
+        "barrier": 0.6184,
+        "sd": null,
+        "runs": 1,
+        "source": "saved printed output (rounded)"
+      }
+    },
+    {
+      "C": 0.9,
+      "theta": 0.4,
+      "ground_energy": 1.0876972479499871,
+      "quantum_potential": 0.6331085939649789,
+      "P15_potential": 0.6115969938537562,
+      "P15_barrier": 0.0,
+      "P60_barrier": 0.0,
+      "mc": {
+        "barrier": 0.012,
+        "sd": 0.006,
+        "runs": 3,
+        "source": "saved printed output (rounded)"
+      }
+    },
+    {
+      "C": 0.9,
+      "theta": 0.6,
+      "ground_energy": 1.0876972479499871,
+      "quantum_potential": 0.638392590279511,
+      "P15_potential": 0.6273529227491014,
+      "P15_barrier": 0.09875374550145515,
+      "P60_barrier": 0.09360325946148294,
+      "mc": {
+        "barrier": 0.1395,
+        "sd": null,
+        "runs": 1,
+        "source": "saved printed output (rounded)"
+      }
+    }
+  ]
+}
