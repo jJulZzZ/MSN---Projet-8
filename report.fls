@@ -53,6 +53,12 @@ INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.st
 INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
 INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Jules\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
@@ -269,6 +275,12 @@ INPUT .\output\report\reference_energy_convergence.pdf
 INPUT .\output\report\reference_energy_convergence.pdf
 INPUT .\output\report\reference_energy_convergence.pdf
 INPUT .\output\report\reference_energy_convergence.pdf
+INPUT .\output\report\double-well-graph.png
+INPUT .\output\report\double-well-graph.png
+INPUT .\output\report\double-well-graph.png
+INPUT .\output\report\double-well-graph.png
+INPUT .\output\report\double-well-graph.png
+INPUT .\output\report\double-well-graph.png
 INPUT .\output\report\mc_distribution_C03.png
 INPUT .\output\report\mc_distribution_C03.png
 INPUT .\output\report\mc_distribution_C03.png

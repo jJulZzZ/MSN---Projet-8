@@ -1,0 +1,4 @@
+import { finalizePresentation } from 'file:///C:/Users/Jules/.codex/plugins/cache/openai-primary-runtime/presentations/26.1104.22356/skills/presentations/container_tools/artifact_tool_utils.mjs';
+const root='C:/Users/Jules/Code/MSN-P8'; const skill='C:/Users/Jules/.codex/plugins/cache/openai-primary-runtime/presentations/26.1104.22356/skills/presentations';
+console.log(await finalizePresentation({workspaceDir:root,candidatePath:root+'/build_presentation/candidate.pptx',finalPath:root+'/output/PIMC_double_well.pptx',pythonExecutable:'C:/Users/Jules/miniconda3/python.exe',integrityValidatorPath:skill+'/container_tools/inspect_presentation_package_integrity.py',layoutValidatorPath:skill+'/container_tools/inspect_presentation_layout_geometry.py',layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-heading-fit'],fontPolicy:{basis:'design',families:['Arial']},verifyArtifactToolImport:true,receiptPath:root+'/build_presentation/validation.json'}));
+
